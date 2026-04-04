@@ -13,7 +13,8 @@ class Car{
         System.out.println("car is running on time");
     }
 }
-class ferrari extends Car{
+class
+ferrari extends Car{
     public static void superspeed(){
         System.out.println("car is running on high speed");
     }

@@ -22,6 +22,10 @@ public class mine{
                  System.out.println("Indian");
 
          }
+         int[] an={10,5,6,7};
+        System.out.println(an[1]);
+        String[] name={"ranjit","aryan","sanjay"};
+        System.out.println(name[2]);
 
     }
 }

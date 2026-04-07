@@ -26,6 +26,16 @@ public class mine{
         System.out.println(an[1]);
         String[] name={"ranjit","aryan","sanjay"};
         System.out.println(name[2]);
+        int u=7;
+        do {
+            System.out.println("running");
+            u++;
+
+
+        }while (u<5);
+
+
 
     }
 }
+

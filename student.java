@@ -1,8 +1,8 @@
 public class student {
-//    String name;
+ String name;
      int age;
-   public student(int a){
-//        name=n;
+   public student(String n , int a){
+      name=n;
     age=a;
        System.out.println(age);
 //        System.out.println("constructor called");
@@ -10,8 +10,8 @@ public class student {
 
     }
     public static void main(String args[]){
-        student s=new student(20);
-//        System.out.println(s.name);
+        student s=new student("Ram",21);
+        System.out.println(s.name);
 
 
     }
